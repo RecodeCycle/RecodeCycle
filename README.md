@@ -9,5 +9,6 @@
 </div>
      
 
+ ![Snake animation](https://github.com/93-silvestre/RecodeCycle/blob/output/github-contribution-grid-snake.svg)
      
 </div>
